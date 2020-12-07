@@ -17,12 +17,20 @@ Moderation Commands:
 //ban,
 //addrole,
 //purge 
+//mute
+//unmute
 ```
 Miscellaneous Commands:  
 ```
 //av,
 //meme,
 //say
+//cat-fact
+//joke
+//8ball
+//serverinfo
+//userinfo
+//advice
 ```  
 NSFW Commands:
 ```
