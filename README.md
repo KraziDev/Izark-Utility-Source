@@ -17,8 +17,6 @@ Moderation Commands:
 //ban,
 //addrole,
 //purge 
-//mute
-//unmute
 ```
 Miscellaneous Commands:  
 ```
