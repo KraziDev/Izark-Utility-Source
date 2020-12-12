@@ -28,8 +28,6 @@ Miscellaneous Commands:
 //cat-fact
 //joke
 //8ball
-//serverinfo
-//userinfo
 //advice
 ```  
 NSFW Commands:
